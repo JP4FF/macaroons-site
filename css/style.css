@@ -630,7 +630,7 @@ body._lock {
 	line-height: 1;
 }
 .order__input:focus {
-	outline: 1px solid #6b0b1d;
+	box-shadow: 0 0 0 2px #821328;
 }
 
 .order__form .order__input:not(:last-child) {
